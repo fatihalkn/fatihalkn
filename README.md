@@ -1,27 +1,25 @@
-<br clear="both">
-
-<p align="left">Hi 👋, I'm Fatih</p>
-
-###
-
-<p align="left">👨🏻‍💻 I am currently working on IOS swift</p>
-
-###
-
-<p align="left">📫 How to reach me : af.alkanfatih@gmail.com</p>
-
-###
-
-<p align="left">🔗 Connect with me: https://www.linkedin.com/feed/</p>
-
-###
-
-<p align="left">💻 Languages and Tools:</p>
-
-###
-
 <div align="center">
-  <img height="155" src="https://media.giphy.com/media/1HZ1wggAdwVIA/giphy.gif"  />
-</div>
+  <p>Hi 👋, I'm Fatih</p>
+  <br>
 
-###
+  <p>👨🏻‍💻 I am currently working on IOS Swift</p>
+  <br>
+
+  <p>📫 How to reach me: af.alkanfatih@gmail.com</p>
+  <br>
+
+  <p>🔗 Connect with me: <a href="https://www.linkedin.com/feed/" target="_blank">LinkedIn</a></p>
+  <br>
+
+  <p>💻 Languages and Tools: IOS Swift</p>
+  <br>
+
+  
+
+  <br>
+
+  
+  <div>
+    <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo" />
+  </div>
+</div>
